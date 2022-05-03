@@ -10,15 +10,16 @@ Check the [course syllabus](https://tisem-digital-marketing.github.io/2022-smwa/
 
 ## Meta-Information
 
-* Your Name: YOUR NAME
+* Your Name: Isabel Smittenaar
 * Student ID Number: YOUR STUDENT NUMBER
-* GitHub Handles: YOUR GITHUB HANDLE
-* Lab Section Leader: Lachlan / Gijs (choose one)
-* Lab Start time: 8:45 am / 10:45 am (choose one)
+* GitHub Handles: isabelsmittenaar
+* Lab Section Leader: Gijs 
+* Lab Start time: 10:45 am
 
 ## Presentation Topic
 
-Please copy and paste the presentation topic you have been assigned to here.
+Topic 1:
+Bol.com’s Seller Experience team is looking to expand the number of third party vendors who sell on the site. One problem they are facing is that new vendors have less, and noisier reviews by consumers about their reputation. Propose a new strategy that they could adopt to help new seller’s reputations on Bol.com and an analytical framework that you could use to test whether this strategy is successful.
 
 ## Instructions for Students
 
