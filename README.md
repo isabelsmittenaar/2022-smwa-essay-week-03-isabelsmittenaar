@@ -11,7 +11,7 @@ Check the [course syllabus](https://tisem-digital-marketing.github.io/2022-smwa/
 ## Meta-Information
 
 * Your Name: Isabel Smittenaar
-* Student ID Number: YOUR STUDENT NUMBER
+* Student ID Number: 2085760
 * GitHub Handles: isabelsmittenaar
 * Lab Section Leader: Gijs 
 * Lab Start time: 10:45 am
